@@ -24,7 +24,7 @@ setup(
         'fastprogress',
         'joblib',
         'numpy',
-        'Pillow<7.0.0',
+        'Pillow<8.0.0',
         'transformers>=2.3.0',
         'sentencepiece!=0.1.92',
         'scikit-learn',
